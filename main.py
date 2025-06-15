@@ -32,11 +32,33 @@ class Neural_Network:
     def ForwardPropagation():
         ...
 
-    
-
-    def neuron():
+    def add_Layer():
         ...
 
+    def forward():
+        ...
+
+    def backward():
+        ...
+
+    def update_parameters():
+        ...
+    
+    def train():
+        ...
+    
+    def test(TrainedNetwork):
+        ...
+    
+    def predict():
+        ...
+
+    def denseLayer(input,n, dropout = False,):
+        output = np.array()
+
+    
+    def ActivationFunctionLayer (Funct):
+        ...
 
 
 def dummy(z):
